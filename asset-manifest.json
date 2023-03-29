@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/fortheTest/static/css/main.c3ae806e.css",
-    "main.js": "/fortheTest/static/js/main.0565ffbc.js",
+    "main.js": "/fortheTest/static/js/main.8af6666d.js",
     "static/js/787.0c3f432a.chunk.js": "/fortheTest/static/js/787.0c3f432a.chunk.js",
     "index.html": "/fortheTest/index.html",
     "main.c3ae806e.css.map": "/fortheTest/static/css/main.c3ae806e.css.map",
-    "main.0565ffbc.js.map": "/fortheTest/static/js/main.0565ffbc.js.map",
+    "main.8af6666d.js.map": "/fortheTest/static/js/main.8af6666d.js.map",
     "787.0c3f432a.chunk.js.map": "/fortheTest/static/js/787.0c3f432a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c3ae806e.css",
-    "static/js/main.0565ffbc.js"
+    "static/js/main.8af6666d.js"
   ]
 }
