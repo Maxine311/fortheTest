@@ -35,6 +35,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 <img width="1259" alt="截圖 2023-03-29 下午1 14 23" src="https://user-images.githubusercontent.com/61915882/228459762-3ab3e936-3ac1-4f58-aea5-efbc14357999.png">
 
 
-`按每一個列表會再開一個新分頁，進入他的詳細頁面`
+`按每一個列表的標題會再開一個新分頁，進入他的詳細頁面`
 
 <img width="1256" alt="截圖 2023-03-29 下午3 33 54" src="https://user-images.githubusercontent.com/61915882/228460030-6197cc9e-3314-4b7d-bb3b-638a4171f4a8.png">
